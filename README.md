@@ -4,4 +4,7 @@ This is basically [Eric Percifield's Laravel 4 Blade Highlighter ST2 bundle](htt
 
 ###Installation
 
-Download && double-click on 'Laravel Blade.tmbundle'.
+* Download
+* Unzip
+* Rename 'laravel-blade.tmbundle-master' to 'laravel-blade.tmbundle'
+* Double-click on it
